@@ -1,0 +1,17 @@
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\obj\Debug\SortingAlgorithmsTests.csprojAssemblyReference.cache
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\obj\Debug\SortingAlgorithmsTests.csproj.CoreCompileInputs.cache
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\SortingAlgorithmsTests.dll
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\SortingAlgorithmsTests.pdb
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\SortingAlgorithms.exe
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\SortingAlgorithms.pdb
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\SortingAlgorithms.exe.config
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\obj\Debug\SortingAlgorithmsTests.csproj.CopyComplete
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\obj\Debug\SortingAlgorithmsTests.dll
+C:\Users\Juliano\source\repos\SortingAlgorithmsTests\obj\Debug\SortingAlgorithmsTests.pdb
