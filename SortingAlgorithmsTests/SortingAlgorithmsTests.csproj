@@ -52,6 +52,7 @@
     <Compile Include="GenericSorterTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sort\BubbleSorterTest.cs" />
+    <Compile Include="Sort\LINQSorterTest.cs" />
     <Compile Include="Sort\QuickSorterTest.cs" />
     <Compile Include="Sort\MergeSorterTest.cs" />
     <Compile Include="Sort\InsertionSorterTest.cs" />

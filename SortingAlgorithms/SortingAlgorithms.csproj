@@ -39,6 +39,7 @@
     <Compile Include="Business\Sorter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Sort\BubbleSorter.cs" />
+    <Compile Include="Sort\LINQSorter.cs" />
     <Compile Include="Sort\QuickSorter.cs" />
     <Compile Include="Sort\MergeSorter.cs" />
     <Compile Include="Sort\InsertionSorter.cs" />
