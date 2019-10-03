@@ -42,10 +42,10 @@ namespace SortingAlgorithms.Sort
             List<T> sortedLeft = this.DoSort(left);
             List<T> sortedRight = this.DoSort(right);
 
-            return this.merge(sortedLeft, sortedRight);
+            return this.Merge(sortedLeft, sortedRight);
         }
 
-        private List<T> merge(List<T> left, List<T> right)
+        private List<T> Merge(List<T> left, List<T> right)
         {
 
             int leftIndex = 0;
